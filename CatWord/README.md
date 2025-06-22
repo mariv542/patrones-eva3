@@ -55,7 +55,7 @@ En un mundo de gatos mágicos, se necesita:
 ![final](img/final.png)
 ---
 
-## 🚀 Instrucciones de compilación y ejecución
+## 🚀 Instrucciones de compilación 
 
 ### 🛠 Requisitos
 
@@ -63,5 +63,7 @@ En un mundo de gatos mágicos, se necesita:
 - IDE como IntelliJ, VS Code 
 - Consola o terminal
 
+## 🚀 Instrucciones de compilación 
 
+- Run project (el boton correstpondiente desde el ide)
 
