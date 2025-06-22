@@ -65,5 +65,5 @@ En un mundo de gatos mágicos, se necesita:
 
 ## 🚀 Instrucciones de compilación 
 
-- Run project (el boton correstpondiente desde el ide)
+- Run project (el boton correspondiente desde el IDE)
 
