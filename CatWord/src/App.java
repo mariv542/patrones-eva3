@@ -27,7 +27,7 @@ public class App {
         // =======================
         // PATRÓN PROTOTYPE
         // =======================
-        System.out.println("[🧬 Prototype]");
+        System.out.println("[ Prototype]");
 
         GatoMagico original = new GatoMagico("Nébula", "Invisibilidad");
         GatoMagico clon = original.clonar();
